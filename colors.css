@@ -1,0 +1,26 @@
+.A001 {
+    background-color: black;
+  }
+  
+  .A002 {
+    color: whitesmoke;
+  }
+  
+  .A003 {
+    color: yellowgreen;
+  }
+  
+  .A004 {
+    color: aqua
+  }
+  
+  #A005 {
+    color: silver
+  }
+  
+  h1,
+  fieldset {
+    border-radius: 3ex;
+    border-style: groove;
+    border-color: white;
+  }
